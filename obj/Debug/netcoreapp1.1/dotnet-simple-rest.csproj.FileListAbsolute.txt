@@ -1,0 +1,8 @@
+/Users/gidis/Projects/dotnet-simple-rest/bin/Debug/netcoreapp1.1/dotnet-simple-rest.deps.json
+/Users/gidis/Projects/dotnet-simple-rest/bin/Debug/netcoreapp1.1/dotnet-simple-rest.runtimeconfig.json
+/Users/gidis/Projects/dotnet-simple-rest/bin/Debug/netcoreapp1.1/dotnet-simple-rest.runtimeconfig.dev.json
+/Users/gidis/Projects/dotnet-simple-rest/obj/Debug/netcoreapp1.1/dotnet-simple-rest.AssemblyInfo.cs
+/Users/gidis/Projects/dotnet-simple-rest/bin/Debug/netcoreapp1.1/dotnet-simple-rest.dll
+/Users/gidis/Projects/dotnet-simple-rest/bin/Debug/netcoreapp1.1/dotnet-simple-rest.pdb
+/Users/gidis/Projects/dotnet-simple-rest/obj/Debug/netcoreapp1.1/dotnet-simple-rest.dll
+/Users/gidis/Projects/dotnet-simple-rest/obj/Debug/netcoreapp1.1/dotnet-simple-rest.pdb
